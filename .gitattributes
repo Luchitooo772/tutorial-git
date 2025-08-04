@@ -1,5 +1,5 @@
 * text=auto
-
+#aguante agro
 *.blade.php diff=html
 *.css diff=css
 *.html diff=html
